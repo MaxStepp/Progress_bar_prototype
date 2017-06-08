@@ -54,6 +54,18 @@
           <option name="url" value="https://gitlab.studware.ru/MaximS/test_gost_openssl_engine.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.studware.ru/MaximS/githowto_hello.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.studware.ru/MaximS/githowto_hello_cloned.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.studware.ru/MaximS/githowto_clonedhello.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Max\WebstormProjects" />
