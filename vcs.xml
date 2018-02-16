@@ -82,6 +82,10 @@
           <option name="url" value="https://github.com/MaxStepp/maxstepp.github.io.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/MaxStepp/TO_DO_LIST.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Max\WebstormProjects" />
